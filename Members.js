@@ -15,14 +15,14 @@ const members = [
     },
     {
         id: 3,
-        name: "vehbi Karaagac",
+        name: "vehbiKaraagac",
         email: "vehbi@getMaxListeners.com",
         degree: "college",
         status: "active",
     },
     {
         id: 4,
-        name: "melih Karaagac",
+        name: "melih",
         email: "melih@getMaxListeners.com",
         degree: "elementary",
         status: "active",
